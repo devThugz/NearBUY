@@ -14,14 +14,14 @@ interface AuthModalProps {
 const DEMO_CREDENTIALS = {
   business: {
     email: '',
-    password: ''
+    password: '12345'
   },
   supplier: {
-    email: 'reyjhon@gmail.com',
+    email: '',
     password: '12345'
   },
   admin: {
-    email: 'admin@lantaw.ai',
+    email: '',
     password: '12345'
   }
 };
